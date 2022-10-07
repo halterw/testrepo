@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Test Repo"
 website_descr = "description blabla"
-website_url   = "https://halterw.github.io/"
+website_url   = "https://halterw.github.io/testrepo"
 +++
 
 <!--
