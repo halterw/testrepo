@@ -1,0 +1,4 @@
+Sitemap: https://halterw.github.io/testrepo/sitemap.xml
+
+User-agent: *
+Disallow:
